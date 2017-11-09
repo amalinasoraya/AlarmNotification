@@ -91,7 +91,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="24sp"
-        android:text="Please Input custome message"
+        android:text="Please input custom message"
         tools:layout_constraintTop_creator="1"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"

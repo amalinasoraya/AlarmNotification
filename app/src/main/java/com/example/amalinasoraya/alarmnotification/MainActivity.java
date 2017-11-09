@@ -124,7 +124,7 @@ public class MainActivity extends Activity {
                 "\n\n**************************************************\n"
                         + "Alarm is set @ " + targetCal.getTime() +  "\n"
                         + "**************************************************\n"
-                        + "Message ...  " +  "\n"
+                        + "Message: "
                         + message.getText().toString()
         );
 
